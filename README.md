@@ -1,2 +1,0 @@
-# AMSERVE
-Internship project
